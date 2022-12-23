@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-// global variables go before main()
+// global variables 
 var sums []int // collect all sums here
 var sum int    // should be 0
 
